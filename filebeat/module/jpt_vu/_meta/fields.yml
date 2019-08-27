@@ -1,0 +1,9 @@
+- key: jpt_vu
+  title: "jpt_vu"
+  description: >
+    jpt_vu Module
+  fields:
+    - name: jpt_vu
+      type: group
+      description: >
+      fields:

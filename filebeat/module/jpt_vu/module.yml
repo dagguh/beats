@@ -1,0 +1,3 @@
+dashboards:
+- id: Filebeat-jpt_vu-vu1-Dashboard
+  file: Filebeat-jpt_vu-vu1.json
